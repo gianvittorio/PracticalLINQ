@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingDataStreams", "GeneratingDataStreams\GeneratingDataStreams.csproj", "{DFD08A37-DFC5-49D7-8A7E-A8AB7083847F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD08A37-DFC5-49D7-8A7E-A8AB7083847F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD08A37-DFC5-49D7-8A7E-A8AB7083847F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD08A37-DFC5-49D7-8A7E-A8AB7083847F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD08A37-DFC5-49D7-8A7E-A8AB7083847F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
